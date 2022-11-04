@@ -1,2 +1,7 @@
 # MERN-Project
-Its a repository for Usama and I to work and learn collectively on a MERN project. Creating a generic market place with user authentications and all the modern features. 
+
+Its a repository for Usama and I to work and learn collectively on a MERN project. Creating a generic market place with user authentications and all the modern features.
+
+## Sub-heading
+
+working on js algorithm course.
